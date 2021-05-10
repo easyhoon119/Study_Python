@@ -11,5 +11,10 @@ def func_2():
     print('git example second')
 
 
+def func_3():
+    print('git example third')
+
+
 func_1()
 func_2()
+func_3()
