@@ -7,4 +7,9 @@ def func_1():
     print('git example first')
 
 
+def func_2():
+    print('git example second')
+
+
 func_1()
+func_2()
